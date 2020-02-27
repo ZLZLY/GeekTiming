@@ -1,6 +1,200 @@
-﻿  speaker.cpp
-  speechManager.cpp
-D:\推荐系统\GeekTiming\演讲比赛流程管理STL\演讲比赛流程管理STL\speechManager.cpp(43,20): warning C4018: “<”: 有符号/无符号不匹配
-  演讲比赛流程管理系统.cpp
-  正在生成代码...
+﻿  speechManager.cpp
+D:\推荐系统\GeekTiming\演讲比赛流程管理STL\演讲比赛流程管理STL\speechManager.cpp(45,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\推荐系统\GeekTiming\演讲比赛流程管理STL\演讲比赛流程管理STL\speechManager.cpp(301,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\numeric(35,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\numeric(44): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+D:\推荐系统\GeekTiming\演讲比赛流程管理STL\演讲比赛流程管理STL\speechManager.cpp(154): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1481,27): warning C4244: “参数”: 从“const _Kty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1480): message : 查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<const std::greater<int>&,const _Keyty&,const _Kty&,0>(_Pr,_Ty1,_Ty2) noexcept(<expr>)”的引用
+          with
+          [
+              _Keyty=double,
+              _Kty=double,
+              _Pr=const std::greater<int> &,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtree(998): message : 查看对正在编译的函数 模板 实例化“std::_Tree_find_result<std::_Tree_node<std::pair<const double,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const double,int>>,
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>,
+              _Keyty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtree(1017): message : 查看对正在编译的函数 模板 实例化“std::_Tree_find_result<std::_Tree_node<std::pair<const double,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const double,int>>,
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>,
+              _Keyty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtree(1092): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const double,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Emplace<std::pair<double,int>>(std::pair<double,int> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const double,int>>,
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtree(1093): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const double,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Emplace<std::pair<double,int>>(std::pair<double,int> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const double,int>>,
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(450): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const double,int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<std::pair<double,int>>(std::pair<double,int> &&)”的引用
+          with
+          [
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<std::pair<const double,int>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(451): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const double,int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<std::pair<double,int>>(std::pair<double,int> &&)”的引用
+          with
+          [
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<std::pair<const double,int>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(462): message : 查看对正在编译的函数 模板 实例化“std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const double,int>>>> std::multimap<double,int,std::greater<int>,std::allocator<std::pair<const double,int>>>::emplace<_Ty>(_Ty &&)”的引用
+          with
+          [
+              _Ty=std::pair<double,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(462): message : 查看对正在编译的函数 模板 实例化“std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const double,int>>>> std::multimap<double,int,std::greater<int>,std::allocator<std::pair<const double,int>>>::emplace<_Ty>(_Ty &&)”的引用
+          with
+          [
+              _Ty=std::pair<double,int>
+          ]
+D:\推荐系统\GeekTiming\演讲比赛流程管理STL\演讲比赛流程管理STL\speechManager.cpp(162): message : 查看对正在编译的函数 模板 实例化“std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const double,int>>>> std::multimap<double,int,std::greater<int>,std::allocator<std::pair<const double,int>>>::insert<std::pair<double,int>,void>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<double,int>
+          ]
+D:\推荐系统\GeekTiming\演讲比赛流程管理STL\演讲比赛流程管理STL\speechManager.cpp(162): message : 查看对正在编译的函数 模板 实例化“std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const double,int>>>> std::multimap<double,int,std::greater<int>,std::allocator<std::pair<const double,int>>>::insert<std::pair<double,int>,void>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<double,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1481,20): warning C4244: “参数”: 从“const _Keyty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1481,62): warning C4244: “参数”: 从“const _Keyty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1481,54): warning C4244: “参数”: 从“const _Kty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1483,57): warning C4244: “参数”: 从“const _Kty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtree(1683): message : 查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<const std::greater<int>&,const _Keyty&,const _Kty&,0>(_Pr,_Ty1,_Ty2) noexcept(false)”的引用
+          with
+          [
+              _Keyty=double,
+              _Kty=double,
+              _Pr=const std::greater<int> &,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtree(998): message : 查看对正在编译的函数 模板 实例化“std::_Tree_find_result<std::_Tree_node<std::pair<const double,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const double,int>>,
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>,
+              _Keyty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtree(1017): message : 查看对正在编译的函数 模板 实例化“std::_Tree_find_result<std::_Tree_node<std::pair<const double,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const double,int>>,
+              _Kty=double,
+              _Ty=int,
+              _Pr=std::greater<int>,
+              _Keyty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1483,50): warning C4244: “参数”: 从“const _Keyty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1485,9): warning C4244: “参数”: 从“const _Keyty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1485,9): warning C4244: “参数”: 从“const _Kty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
   演讲比赛流程管理STL.vcxproj -> D:\推荐系统\GeekTiming\演讲比赛流程管理STL\Debug\演讲比赛流程管理STL.exe

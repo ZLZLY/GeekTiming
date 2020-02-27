@@ -3,6 +3,10 @@
 #include<vector>
 #include<map>
 #include "speaker.h"
+#include<algorithm>
+#include<deque>
+#include<numeric>
+#include <fstream>
 using namespace std;
 
 //演讲管理类
@@ -31,5 +35,19 @@ public:
 
 	void createSpeaker();
 
+	//开始比赛 - 比赛流程控制
+	void startSpeech();
+	//抽签
+	void speechDraw();
+	//比赛
+	void speechContest();
+
+	void showScore();
 	~SpeechManager();
+	//保存记录
+	void saveRecord();
+	void loadRecord();
+	bool fileIsEmpty;
+	map<int, vector<string>> m_Record;
+	void showRecord();
 };
