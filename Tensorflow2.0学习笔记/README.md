@@ -1,0 +1,11 @@
+# Tensorflow2.0
+学习笔记代码
+
+1、目前完成了全部代码的更新
+
+2、前五章代码为本人手码，第六章开始为源码，此外，前五章中的chapter文件夹中的代码为源码，供大家参考
+
+3、第五章中的代码部分API为TensorFlow1.0版本中的代码，请谨慎使用，若要在TensorFlow2.0中使用，需要在API前加上compat.v1
+
+4、data.txt中提供了Titanic、Cifar10、10-monkey的百度网盘链接仅供下载
+
