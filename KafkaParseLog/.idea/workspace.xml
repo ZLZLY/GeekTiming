@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5280aa3-7608-464b-925b-a1592f115565" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aNOeOXuQKqlSNPyMBqo3cErrrF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WeiObjects\showdata\src\main\resources" />
+      <recent name="D:\WeiObjects\showdata\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.strTest">
+    <configuration name="Log" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Log" />
+      <module name="showdata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="addTest" />
+      <module name="showdata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="livlogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="livlogTest" />
+      <module name="showdata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logTest2" />
+      <module name="showdata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="strTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strTest" />
+      <module name="showdata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.strTest" />
+        <item itemvalue="Application.logTest2" />
+        <item itemvalue="Application.addTest" />
+        <item itemvalue="Application.Log" />
+        <item itemvalue="Application.livlogTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5280aa3-7608-464b-925b-a1592f115565" name="Default Changelist" comment="" />
+      <created>1586572679412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586572679412</updated>
+      <workItem from="1586572682310" duration="4867000" />
+      <workItem from="1586619909545" duration="14707000" />
+      <workItem from="1586697862445" duration="176000" />
+      <workItem from="1586768448571" duration="24666000" />
+      <workItem from="1586852226606" duration="623000" />
+      <workItem from="1586939831191" duration="1217000" />
+      <workItem from="1586944063109" duration="162000" />
+      <workItem from="1587000126502" duration="442000" />
+      <workItem from="1587001717208" duration="2727000" />
+      <workItem from="1587017787209" duration="571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="175" key="#Project_Structure" timestamp="1586794585912">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="552" y="175" key="#Project_Structure/0.0.1920.1034@0.0.1920.1034" timestamp="1586794585912" />
+    <state x="674" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586572756636">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="674" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1034@0.0.1920.1034" timestamp="1586572756636" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1587018358118">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1587018358118" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1587018358118">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1034@0.0.1920.1034" timestamp="1587018358118" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1587018358118">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1034@0.0.1920.1034" timestamp="1587018358118" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1587018358118">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1034@0.0.1920.1034" timestamp="1587018358118" />
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom" timestamp="1587004448230">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1587004448230" />
+    <state width="1877" height="345" key="GridCell.Tab.1.center" timestamp="1587004448230">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.center/0.0.1920.1034@0.0.1920.1034" timestamp="1587004448230" />
+    <state width="1877" height="345" key="GridCell.Tab.1.left" timestamp="1587004448230">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.left/0.0.1920.1034@0.0.1920.1034" timestamp="1587004448230" />
+    <state width="1877" height="345" key="GridCell.Tab.1.right" timestamp="1587004448230">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.right/0.0.1920.1034@0.0.1920.1034" timestamp="1587004448230" />
+    <state x="490" y="172" key="Maven.ArtifactSearchDialog" timestamp="1586834052780">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="490" y="172" key="Maven.ArtifactSearchDialog/0.0.1920.1034@0.0.1920.1034" timestamp="1586834052780" />
+    <state x="461" y="159" key="SettingsEditor" timestamp="1586794562395">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="461" y="159" key="SettingsEditor/0.0.1920.1034@0.0.1920.1034" timestamp="1586794562395" />
+  </component>
+</project>
